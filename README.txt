@@ -1,1 +1,1 @@
-It's the dev branch ^ ^
+It's my first try in practice with GUI :3
